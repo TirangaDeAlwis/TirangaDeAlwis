@@ -19,6 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,html,java,js,kotlin,py)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirangaa&show_icons=true&locale=en&layout=compact" alt="tirangaa" /></p>
